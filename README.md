@@ -2,7 +2,7 @@
 
 Simple Go Application designed using the Hexagonal Architecture pattern.
 
-### Ho to run
+### How to run
 
 To run just clone the repo and the run "go run ." inside the project folder
 
@@ -10,9 +10,9 @@ To run just clone the repo and the run "go run ." inside the project folder
 
 The app expose few endpoints:
 
-<em>GET /api/v1/teams </em>
-<em>POST /api/v1/teams</em>
-<em>POST /api/v1/teams/:team_id/invite-player</em>
-<em>GET /api/v1/teams/:team_id/players</em>
+<p><em>GET /api/v1/teams </em></p>
+<p><em>POST /api/v1/teams</em></p>
+<p><em>POST /api/v1/teams/:team_id/invite-player</em></p>
+<p><em>GET /api/v1/teams/:team_id/players</em></p>
 
 on localhost:8080.
